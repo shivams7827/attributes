@@ -1,0 +1,75 @@
+                                                    HTM 
+  html syntex (document type )
+
+  <!DOCTYPE htlm>  --- declartion elemanet 
+  <html>           
+  <head>
+  <title>  </title>
+  <\head>
+  <body>
+  </body>
+  </html>
+
+             
+
+
+        html element
+   
+ can be defind by some content and tag ( start tag aor bich me content  <> content </> )
+            <> </> (tag)
+            <>shivam</> (element)
+
+
+
+type of element 
+
+1. heading element
+ <h1> </h1>   (LARGEST AND MAIN HEADING)
+ <h2> </h2>   
+ <h3> </h3>
+ <h4> </h4>
+ <h5> </h5>
+ <h6> </h6>  (SMALLEST HEADING )
+
+
+--- Paragraph element <p> </p>
+    
+--- breakline element (tag) <br/> ( line break , self closing tag )
+ 
+--- preformated tag ( <pre> content </pre>    )
+
+--- hr tag (horizontal rule ) line add  
+
+
+
+                         HTML Attributes
+
+ html attributes provide additional information about the html elements .
+ -- kahi pe click karke sidha website pe pahuch jana, adjust img , width ---
+
+tag   ancor tag (   <a></ link a> link website name
+    
+
+type of attributes
+1. href ---- hyper information link 
+2. src ----- source file path
+3. width --- adjust width
+4. height -- adjust the hight
+5. alt  - -- alternative text
+6. title --- hover titel 
+7. style -- styling (part of css)
+
+                          
+
+                         HTML Formatting Elements
+
+
+
+
+
+
+
+
+
+
+
